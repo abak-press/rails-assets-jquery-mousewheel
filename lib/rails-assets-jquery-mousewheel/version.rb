@@ -1,3 +1,3 @@
 module RailsAssetsJqueryMousewheel
-  VERSION = "3.1.13"
+  VERSION = '3.1.14'.freeze
 end
